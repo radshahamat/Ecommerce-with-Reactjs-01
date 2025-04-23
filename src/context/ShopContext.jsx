@@ -2,6 +2,7 @@ import React from "react";
 import { createContext } from "react";
 import { products } from "../assets/assets";
 
+// eslint-disable-next-line react-refresh/only-export-components
 export const ShopContext = createContext();
 
 const ShopContextProvider = (props) => {
