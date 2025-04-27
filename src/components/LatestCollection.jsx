@@ -32,6 +32,8 @@ const LatestCollection = () => {
       </div>
     </div>
 
+    
+
 
   )
 }
